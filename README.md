@@ -26,6 +26,7 @@
 * 28 (Robin Karp)
 * 707 (Doubly Linked List, sentinel)
 * 142 (Floyd's Tortoise and Hare)
+* 167 (!two pointer)
 
 ## Useful
 
