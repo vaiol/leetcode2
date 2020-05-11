@@ -19,7 +19,7 @@
 **07**: 993, 27, 485, 206   
 **08**: day_7*   
 **09**: 367   
-**10**: (Contest) 1441, 1442     
+**10**: (Contest) 1441, 1442, 997     
 
 ## Repeat
 * 525 (!)
@@ -35,6 +35,7 @@
 * 167 (!two pointer)
 * 169 (Boyer-Moore)
 * 367 (Binary-search TODO)
+* 997 (! one more approach)
 
 ## Useful
 
