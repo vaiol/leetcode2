@@ -29,12 +29,3 @@ class Solution:
             currA = currA.next if currA else headB
             currB = currB.next if currB else headA
         return currA
-
-headA = ListNode(1)
-headA.next = ListNode(2)
-
-headB = ListNode(3)
-headB.next = headA
-
-S = Solution()
-print(S.getIntersectionNodeSet(headA, headB))

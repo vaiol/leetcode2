@@ -22,7 +22,7 @@
 **10**: 1441, 1442, 997 (Contest)   
 **11**: 733  
 **12**: 540, 700, 119  
-**13**: 402  
+**13**: 402, 160  
 
 ## Repeat
 * 525 (!)
@@ -40,6 +40,7 @@
 * 367 (Binary-search TODO)
 * 997 (! one more approach)
 * 402 (!! Greedy)
+* 160 (! two pointer)
 
 ## Useful
 
