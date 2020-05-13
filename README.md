@@ -39,6 +39,7 @@
 * 169 (Boyer-Moore)
 * 367 (Binary-search TODO)
 * 997 (! one more approach)
+* 402 (!! Greedy)
 
 ## Useful
 
