@@ -33,6 +33,7 @@ Day | LC Problems
 ## Repeat
 LC Problem | Description
 --- | ---
+122 |
 53 | Check other solutions
 202 | Check other solutions !
 525 |
