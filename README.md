@@ -5,6 +5,7 @@
 Day | LC Problems
 --- | ---
 **1m1w** | 1313, 1295, 1389, 1266, 1299, 202, 53, 283, 122
+**10** | 121
 **11** | 543
 **12** | 1046, 724, 747
 **13** | 525, 66, 498
@@ -33,7 +34,8 @@ Day | LC Problems
 ## Repeat
 LC Problem | Description
 --- | ---
-122 |
+121 | Repeat
+122 | Repeat
 53 | Check other solutions
 202 | Check other solutions !
 525 |
