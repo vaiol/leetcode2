@@ -9,3 +9,4 @@ class Solution:
             if n not in d:
                 d[n] = i
         return [d[n] for n in nums]
+
