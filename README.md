@@ -4,7 +4,7 @@
 ### `April 2020`
 Day | LC Problems
 --- | ---
-**1m1w** | 1313, 1295, 1389, 1266, 1299
+**1m1w** | 1313, 1295, 1389, 1266, 1299, 202
 **11** | 543
 **12** | 1046, 724, 747
 **13** | 525, 66, 498
@@ -33,6 +33,7 @@ Day | LC Problems
 ## Repeat
 LC Problem | Description
 --- | ---
+202 | Check other solutions
 525 |
 238 | 
 678 | Not solved first time
