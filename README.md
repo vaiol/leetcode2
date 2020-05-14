@@ -2,7 +2,7 @@
 
 ## Progress
 ### `April 2020`
-Day | LC problems
+Day | LC Problems
 --- | ---
 **11** | 543
 **12** | 1046, 724, 747
@@ -12,7 +12,7 @@ Day | LC problems
 **30** | 678
 
 ### `May 2020`
-Day | LC problems
+Day | LC Problems
 --- | ---
 **01** | 278
 **02** | 771, 54
@@ -30,22 +30,24 @@ Day | LC problems
 **14** | 208, 69, 19
 
 ## Repeat
-* 525 (!)
-* 238 (!)
-* 678 (!!)
-* 1046
-* 543
-* 724
-* 14
-* 28 (Robin Karp)
-* 707 (Doubly Linked List, sentinel)
-* 142 (Floyd's Tortoise and Hare)
-* 167 (!two pointer)
-* 169 (Boyer-Moore)
-* 367 (Binary-search TODO)
-* 997 (! one more approach)
-* 402 (!! Greedy)
-* 160 (! two pointer)
+LC Problem | Description
+--- | ---
+525 |
+238 | 
+678 | Not solved first time
+1046 |
+543 |
+724 |
+14 |
+28 | Robin Karp
+707 | Doubly Linked List, sentinel
+142 | Floyd's Tortoise and Hare
+167 | Two pointer
+169 | Boyer-Moore
+367 | Binary-search TODO
+997 | One more approach
+402 | Not solved first time, Greedy
+160 | Two pointer
 
 ## Useful
 
