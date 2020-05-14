@@ -2,6 +2,9 @@
 
 ## Progress
 ### `April 2020`
+* **Active Days**: 14 / 30
+* **LC Problems**: 45
+
 Day | LC Problems
 --- | ---
 **02** | 1313, 1295, 1389, 1266
@@ -18,11 +21,6 @@ Day | LC Problems
 **14** | 1427
 **29** | 238
 **30** | 678
-
- _ |  _
---- | ---
-Active Days | 14 / 30
-LC Problems | 45
 
 ### `May 2020`
 Day | LC Problems
@@ -68,5 +66,5 @@ LC Problem | Description
 
 ## Useful
 
-``` gaa && gcmsg "" && gp ```  
-``` mkdir src/1299 && touch src/1299/Solution.py ```
+``` python3 push.py ```  
+``` python3 gen.py ```
