@@ -39,6 +39,7 @@ Day | LC Problems
 **12** | 540, 700, 119
 **13** | 402, 160, 209
 **14** | 208, 69, 19, 1365
+**15** | 918
 
 ## Repeat
 LC Problem | Description
@@ -63,6 +64,7 @@ LC Problem | Description
 997 | One more approach
 402 | Not solved first time, Greedy
 160 | Two pointer
+918 | Not solved first time, Kadane algorithme
 
 ## Useful
 
