@@ -41,7 +41,7 @@ Day | LC Problems
 **14** | 208, 69, 19, 1365
 **15** | 918
 **16** | 1446, 1447, 1448, 328
-**16** | 1450, 1451, 1452, 1453
+**16** | 1450, 1451, 1452, 1453,438
 
 ## Repeat
 LC Problem | Description
@@ -67,6 +67,7 @@ LC Problem | Description
 402 | Not solved first time, Greedy
 160 | Two pointer
 918 | Not solved first time, Kadane algorithme
+438 | Bitmasks or Rabin-Karp
 
 ## Useful
 
