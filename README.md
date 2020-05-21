@@ -44,7 +44,7 @@ Day | LC Problems
 **17** | 1450, 1451, 1452, 1453, 438, 680
 **18** | 567
 **19** | 
-**20** | 
+**20** | 230
 **21** | 1277
 
 ## Repeat
@@ -73,6 +73,7 @@ LC Problem | Description
 918 | Not solved first time, Kadane algorithme
 438 | Bitmasks or Rabin-Karp
 680 | Not solved first time
+1277 | Repeat algo
 
 ## Useful
 
