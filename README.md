@@ -76,6 +76,7 @@ LC Problem | Description
 438 | Bitmasks or Rabin-Karp
 680 | Not solved first time
 1277 | Repeat algo
+451 | Bucket sort
 
 ## Useful
 
