@@ -1,5 +1,9 @@
 # leetcode2
 
+## Contest
+* **Rating**: 1615
+* **Global Ranking**: 17226
+
 ## Progress
 ### `April 2020`
 * **Active Days**: 14 / 30
@@ -43,11 +47,12 @@ Day | LC Problems
 **16** | 1446, 1447, 1448, 328
 **17** | 1450, 1451, 1452, 1453, 438, 680
 **18** | 567
-**19** | Online Stock Span (Repeat)
+**19** | (ch) Online Stock Span
 **20** | 230
 **21** | 1277
 **22** | 451
-**24** | 1455, 1456, 1457
+**23** | (ch) Interval List Intersections
+**24** | 1455, 1456, 1457 (ch) Construct Binary Search Tree from Preorder Traversal
 **25** | 1143, 1035
 **26** | 1458
 
