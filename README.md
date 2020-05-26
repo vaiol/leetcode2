@@ -48,6 +48,7 @@ Day | LC Problems
 **21** | 1277
 **22** | 451
 **25** | 1143, 1035
+**26** | 1458
 
 
 ## Repeat
@@ -78,6 +79,7 @@ LC Problem | Description
 680 | Not solved first time
 1277 | Repeat algo
 451 | Bucket sort
+1458 | Figure out DP solution from recursion
 
 ## Useful
 
