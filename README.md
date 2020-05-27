@@ -55,7 +55,7 @@ Day | LC Problems
 **24** | 1455, 1456, 1457 (ch) Construct Binary Search Tree from Preorder Traversal
 **25** | 1143, 1035
 **26** | 1458
-
+**27** | 886
 
 ## Repeat
 LC Problem | Description
@@ -86,6 +86,7 @@ LC Problem | Description
 1277 | Repeat algo
 451 | Bucket sort
 1458 | Figure out DP solution from recursion
+886 | Not found DFS solution, tough
 
 ## Useful
 
