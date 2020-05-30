@@ -1,9 +1,4 @@
 class Solution:
-    def __init__(self):
-        self.tmp = []
-    def genAllPossible(self, n):
-        
-        return tmp
     def hasAllCodes(self, s: str, k: int) -> bool:
         l = 2**k
         for i in range(l):
@@ -11,4 +6,3 @@ class Solution:
             if p not in s:
                 return False
         return True
- 
