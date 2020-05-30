@@ -56,6 +56,9 @@ Day | LC Problems
 **25** | 1143, 1035
 **26** | 1458
 **27** | 886
+**28** | (ch) Counting Bits 338
+**29** | (ch) Course Schedule 207
+**30** | 973, 
 
 ## Repeat
 LC Problem | Description
@@ -86,7 +89,7 @@ LC Problem | Description
 1277 | Repeat algo
 451 | Bucket sort
 1458 | Figure out DP solution from recursion
-886 | Not found DFS solution, tough
+886 | Not found DFS solution, black-red
 
 ## Useful
 
