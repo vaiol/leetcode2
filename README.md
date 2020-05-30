@@ -58,7 +58,7 @@ Day | LC Problems
 **27** | 886
 **28** | (ch) Counting Bits 338
 **29** | (ch) Course Schedule 207
-**30** | 973, 1460,
+**30** | 973, 1460, 1461
 
 ## Repeat
 LC Problem | Description
