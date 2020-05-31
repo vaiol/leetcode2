@@ -3,6 +3,10 @@
 ## Contest
 * **Rating**: 1615
 * **Global Ranking**: 17226
+---
+* **Rating**: 1609
+* **Global Ranking**: 18183
+---
 
 ## Progress
 ### `April 2020`
@@ -27,6 +31,10 @@ Day | LC Problems
 **30** | 678
 
 ### `May 2020`
+#### May LeetCoding Challenge completed
+* **Active Days**: 29 / 31
+* **LC Problems**: 69  
+
 Day | LC Problems
 --- | ---
 **01** | 278
