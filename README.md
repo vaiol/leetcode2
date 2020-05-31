@@ -57,7 +57,7 @@ Day | LC Problems
 **26** | 1458
 **27** | 886
 **28** | (ch) Counting Bits 338
-**29** | (ch) Course Schedule 207
+**29** | 207
 **30** | 973, 1460, 1461, 1462
 **31** | 1464, 1465, 1466, 72
 
@@ -89,10 +89,12 @@ LC Problem | Description
 680 | Not solved first time
 1277 | Repeat algo
 451 | Bucket sort
-1458 | Figure out DP solution from recursion
+1458 | Figure out DP solution from recursion (LCS)
 886 | Not found DFS solution, black-red
+207 | Find another solutions
+72 | Figure out DP solution from recursion (LCS)
 
 ## Useful
 
-``` python3 push.py ```  
+``` python3 psh.py ```  
 ``` python3 gen.py ```
