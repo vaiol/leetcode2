@@ -1,12 +1,11 @@
 # leetcode2
 
 ## Contest
-* **Rating**: 1615
-* **Global Ranking**: 17226
----
-* **Rating**: 1609
-* **Global Ranking**: 18183
----
+Week | Rating | Global Ranking
+--- | --- | --- 
+w1 | 1615 | 17226
+w2 | 1609 | 18183
+w3 | 1645 | 14766
 
 ## Progress
 ### `April 2020`
@@ -68,6 +67,12 @@ Day | LC Problems
 **29** | 207
 **30** | 973, 1460, 1461, 1462
 **31** | 1464, 1465, 1466, 72
+
+### `June 2020`
+Day | LC Problems
+--- | ---
+**10** | 35
+
 
 ## Repeat
 LC Problem | Description
