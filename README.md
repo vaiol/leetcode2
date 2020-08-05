@@ -73,6 +73,11 @@ Day | LC Problems
 --- | ---
 **10** | 35
 
+### `August 2020`
+Day | LC Problems
+--- | ---
+**5** | 211
+
 
 ## Repeat
 LC Problem | Description
@@ -106,6 +111,8 @@ LC Problem | Description
 886 | Not found DFS solution, black-red
 207 | Find another solutions
 72 | Figure out DP solution from recursion (LCS)
+
+211 | Trie !!!
 
 ## Useful
 
