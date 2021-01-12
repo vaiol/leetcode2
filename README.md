@@ -81,6 +81,11 @@ Day | LC Problems
 **10** | 270, 171
 **11** | 274
 
+### `January 2021`
+Day | LC Problems
+--- | ---
+**12** | 206
+
 
 ## Repeat
 LC Problem | Description
