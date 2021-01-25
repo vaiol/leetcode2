@@ -85,6 +85,7 @@ Day | LC Problems
 Day | LC Problems
 --- | ---
 **12** | 206, 485, 977
+**25** | 1089
 
 
 ## Repeat
