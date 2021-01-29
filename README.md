@@ -89,6 +89,7 @@ Day | LC Problems
 **26** | 26, 1346, 941
 **27** | 1299, 26, 283, 905, 1051, 487
 **28** | 414, 448, 977
+**29** | 151
 
 
 
@@ -125,6 +126,7 @@ LC Problem | Description
 207 | Find another solutions
 72 | Figure out DP solution from recursion (LCS)
 448 | Array in place 1-n
+151 | Work with string in python
 
 211 | Trie !!!
 
