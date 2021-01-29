@@ -88,7 +88,7 @@ Day | LC Problems
 **25** | 1089, 88
 **26** | 26, 1346, 941
 **27** | 1299, 26, 283, 905, 1051, 487
-**28** | 414
+**28** | 414, 448, 977
 
 
 
@@ -98,7 +98,7 @@ LC Problem | Description
 121 | Repeat
 122 | Repeat
 53 | Check other solutions
-202 | Check other solutions !
+202 |
 525 |
 238 | 
 678 | Not solved first time
@@ -124,6 +124,7 @@ LC Problem | Description
 886 | Not found DFS solution, black-red
 207 | Find another solutions
 72 | Figure out DP solution from recursion (LCS)
+448 | Array in place 1-n
 
 211 | Trie !!!
 
