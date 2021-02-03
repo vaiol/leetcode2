@@ -96,7 +96,7 @@ Day | LC Problems
 ### `February 2021`
 Day | LC Problems
 --- | ---
-**01** |
+**01** | 1512
 **02** | 191
 **02** | 696
 
