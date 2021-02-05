@@ -99,6 +99,7 @@ Day | LC Problems
 **01** | 1512
 **02** | 191
 **03** | 669, 141
+**04** | 594
 
 
 
@@ -136,6 +137,7 @@ LC Problem | Description
 72 | Figure out DP solution from recursion (LCS)
 448 | Array in place 1-n
 151 | Work with string in python
+594 | Longest Harmonious Subsequence
 
 211 | Trie !!!
 
