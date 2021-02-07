@@ -102,7 +102,7 @@ Day | LC Problems
 **04** | 594
 **05** | 71
 **06** |
-**07** | 199, 821
+**07** | 199, 821, 573
 
 
 
@@ -141,8 +141,11 @@ LC Problem | Description
 448 | Array in place 1-n
 151 | Work with string in python
 594 | Longest Harmonious Subsequence
+
+
 199 | binary search tree traversal
 821 | not finished easy task
+563 | not finished easy task
 
 211 | Trie !!!
 
