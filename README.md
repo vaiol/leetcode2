@@ -101,7 +101,7 @@ Day | LC Problems
 **03** | 669, 141
 **04** | 594
 **05** | 71
-**06** | 1748, 1749
+**06** | 1748, 1749, 1750
 **07** | 199, 821, 573
 
 
@@ -145,7 +145,7 @@ LC Problem | Description
 
 199 | binary search tree traversal
 821 | not finished easy task
-563 | not finished easy task
+1749 | Kedane algorithm
 
 211 | Trie !!!
 
