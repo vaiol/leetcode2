@@ -24,5 +24,13 @@ class Solution:
             else:
                 res += diss[i] * 2
         return res
+    def minDistanceOpt2(self, height: int, width: int, tree: List[int], squirrel: List[int], nuts: List[List[int]]) -> int:
+        max_diff_diss = float('-inf')
+        total_diss = 0
+        for nut in nuts:
+            diss = self.getDistance(tree, nut)
+            squirrel_diss = self.getDistance(squirrel, nut)
+            total_diss += diss * 2
+            max_diff_diss = max(max_diff_diss, (diss * 2) - (diss + squirrel_diss))
+        return total_diss - max_diff_diss
                 
-        
