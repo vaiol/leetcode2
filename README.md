@@ -115,6 +115,7 @@ Day | LC Problems
 **19** | 413, 365, 1249
 **20** | 1763, 1764, 1765
 **21** | 991
+**22** | 62, 63, 64, 524
 
 
 
@@ -160,7 +161,13 @@ LC Problem | Description
 821 | not finished easy task
 1749 | Kedane algorithm
 
+1763 | O(n) find solution
+
 211 | Trie !!!
+
+### From JS to Python rewrite
+62
+64
 
 ## Useful
 
