@@ -4,8 +4,13 @@
 ### `March 2021`
 Day | LC Problems
 --- | ---
-**01** |
+**01** | 575
 **02** | 645
+**03** | -
+**04** | 160
+**05** | 637
+**06** | 1779, 1780, 1781
+**07** |
 
 ### `February 2021`
 Day | LC Problems
@@ -30,6 +35,12 @@ Day | LC Problems
 **20** | 1763, 1764, 1765
 **21** | 991
 **22** | 62, 63, 64, 524, 158
+**25** | 581
+
+#### Repeat
+LC Problem | Description
+--- | ---
+581 | get optimal solution
 
 ### `January 2021`
 Day | LC Problems
