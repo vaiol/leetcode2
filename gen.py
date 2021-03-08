@@ -20,3 +20,4 @@ text_file.write(clipboard_content)
 text_file.close()
 
 print(file_name)
+print(clipboard_content)
