@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
         res = []
@@ -15,8 +18,20 @@ class Solution:
                 res.append(asteroids[i])
             i += 1
         return res
-            
-            
-            
-            
-            
+
+    def asteroidCollision2(self, asteroids: List[int]) -> List[int]:
+        res = []
+        i = 0
+        for new in asteroids:
+            while res and res[-1] > 0 and new < 0:
+                if res[-1] == abs(new):
+                    res.pop()
+                    break
+                if res[-1] < abs(new):
+                    res.pop()
+                else:
+                    break
+            else:
+                res.append(new)
+
+        return res
