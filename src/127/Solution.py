@@ -1,7 +1,3 @@
-from collections import defaultdict, deque
-from typing import List
-
-
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
         words = [beginWord] + wordList
@@ -26,15 +22,14 @@ class Solution:
 
         queue = deque()
         visited = set()
-        queue.append((endWord, 0))
+        queue.append((endWord, 1))
         visited.add(endWord)
         while queue:
             word, level = queue.popleft()
-            print(word, level)
             if word == beginWord:
                 return level
             for ref_word in word_words_dict[word]:
                 if ref_word not in visited:
                     queue.append((ref_word, level + 1))
                     visited.add(ref_word)
-        return -1
+        return 0
