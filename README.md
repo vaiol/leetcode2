@@ -1,6 +1,12 @@
 # leetcode2
 
 ## Progress
+### `November 2021`
+Day | LC Problems
+--- | ---
+**01** | 130
+
+
 ### `March 2021`
 Day | LC Problems
 --- | ---
