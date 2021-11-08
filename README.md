@@ -1,9 +1,10 @@
 # leetcode2
 
 ## Gold leetcode problems
-62. Unique Paths
-63. Unique Paths II
-129. Sum Root to Leaf Numbers
+- 62 Unique Paths
+- 63 Unique Paths II
+- 96 Unique Binary Search Trees
+- 129 Sum Root to Leaf Numbers
 
 ## Progress
 ### `November 2021`
