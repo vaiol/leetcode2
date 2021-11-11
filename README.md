@@ -5,6 +5,8 @@
 - 63 Unique Paths II
 - 96 Unique Binary Search Trees
 - 129 Sum Root to Leaf Numbers
+- 121 Best Time to Buy and Sell Stock
+- 122 Best Time to Buy and Sell Stock II
 
 ## Progress
 ### `November 2021`
@@ -18,7 +20,8 @@ Day | LC Problems
 **06** | 260 (!!!)
 **07** | 43
 **08** | 96
-
+**09** | 1178 (!!!)
+**10** | 121
 
 ### `March 2021`
 Day | LC Problems

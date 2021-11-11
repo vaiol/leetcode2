@@ -23,3 +23,16 @@ class Solution:
             sold = prices[-1]
             profit += sold - bought
         return profit
+
+    def maxProfitDivideAndConq(self, prices: List[int]) -> int:
+        # 10.11.2021
+        @lru_cache()
+        def rec(start: int, end: int) -> int:
+            nonlocal prices
+            N = (end + 1) - start
+            mid = (end + start) // 2
+            if N <= 2:
+                return max(0, prices[end] - prices[start])
+            return rec(start, mid) + rec(mid, end)
+
+        return rec(0, len(prices) - 1)
