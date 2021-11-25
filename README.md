@@ -23,6 +23,7 @@ Day | LC Problems
 **09** | 1178 (!!!)
 **10** | 121
 **11** | 1413
+**20** | 540
 
 ### `March 2021`
 Day | LC Problems
@@ -159,8 +160,6 @@ Day | LC Problems
 ## Repeat
 LC Problem | Description
 --- | ---
-121 | Repeat
-122 | Repeat
 53 | Check other solutions
 202 |
 525 |
@@ -201,10 +200,6 @@ LC Problem | Description
 1763 | O(n) find solution
 
 211 | Trie !!!
-
-### From JS to Python rewrite
-62
-64
 
 ## Useful
 
