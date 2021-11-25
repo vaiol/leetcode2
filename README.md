@@ -24,6 +24,7 @@ Day | LC Problems
 **10** | 121
 **11** | 1413
 **20** | 540
+**25** | 53
 
 ### `March 2021`
 Day | LC Problems
