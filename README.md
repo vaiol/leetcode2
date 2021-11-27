@@ -7,6 +7,7 @@
 - 121 Best Time to Buy and Sell Stock
 - 122 Best Time to Buy and Sell Stock II
 - 129 Sum Root to Leaf Numbers
+- 238 Product of Array Except Self
 
 ## Progress
 ### `November 2021`
@@ -26,6 +27,7 @@ Day | LC Problems
 **20** | 540
 **25** | 53
 **26** | 35
+**27** | 238
 
 
 ### `March 2021`
