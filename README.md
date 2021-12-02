@@ -10,6 +10,12 @@
 - 238 Product of Array Except Self
 
 ## Progress
+### `December 2021`
+Day | LC Problems
+--- | ---
+**01** | 
+**02** | 328
+
 ### `November 2021`
 Day | LC Problems
 --- | ---
@@ -28,7 +34,6 @@ Day | LC Problems
 **25** | 53
 **26** | 35
 **27** | 238
-**28** | 
 
 
 ### `March 2021`
