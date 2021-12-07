@@ -3,11 +3,13 @@
 ## Gold leetcode problems
 - 62 Unique Paths
 - 63 Unique Paths II
+- 70 Climbing Stairs
 - 96 Unique Binary Search Trees
 - 121 Best Time to Buy and Sell Stock
 - 122 Best Time to Buy and Sell Stock II
 - 129 Sum Root to Leaf Numbers
 - 152 Maximum Product Subarray
+- 198 House Robber
 - 238 Product of Array Except Self
 
 ## Progress
@@ -18,7 +20,7 @@ Day | LC Problems
 **02** | 328
 **03** | 152, 708
 **06** | 1217
-**07** | 1290, 70
+**07** | 1290, 70, 746
 
 
 ### `November 2021`
