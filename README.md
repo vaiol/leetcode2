@@ -10,7 +10,9 @@
 - 129 Sum Root to Leaf Numbers
 - 152 Maximum Product Subarray
 - 198 House Robber
+- 221 Maximal Square
 - 238 Product of Array Except Self
+- 1200 Minimum Absolute Difference **(Counting sort)**
 
 ## Progress
 ### `December 2021`
