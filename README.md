@@ -13,6 +13,7 @@
 - 221 Maximal Square
 - 238 Product of Array Except Self
 - 1200 Minimum Absolute Difference **(Counting sort)**
+- 1155 Number of Dice Rolls With Target Sum
 
 ## Progress
 ### `December 2021`
