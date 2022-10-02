@@ -17,7 +17,16 @@ class Solution:
                     curr_k += 1
                 left += 1
         return max_len
+
+    def longestOnes1(self, nums: List[int], k: int) -> int:
+        left, right = 0, 0
+        while right < len(nums):
+            k -= 1 - nums[right]
+            if k < 0:
+                k += 1 - nums[left]
+                left += 1
+            right += 1
+        return right - left
             
             
                 
-            
