@@ -34,7 +34,19 @@ class Solution:
         head = sentinel.next
         sentinel.next = None
         return head
-        
+
+    def mergeTwoListsRec(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        if not list1:
+            return list2
+        if not list2:
+            return list1
+
+        if list1.val < list2.val:
+            list1.next = self.mergeTwoListsRec(list1.next, list2)
+            return list1
+        else:
+            list2.next = self.mergeTwoListsRec(list1, list2.next)
+            return list2
         
         
         
